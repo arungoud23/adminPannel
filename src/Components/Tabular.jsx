@@ -36,7 +36,7 @@ const Tabular = () => {
         <Td><Avatar name='Dan Abrahmov' src='https://bit.ly/dan-abramov' /></Td>
         <Td>Franky</Td>
         <Td>+9(372) 7783 383</Td>
-        <Td>Stephen@gmail.com</Td>
+        <Td>Stephen76@gmail.com</Td>
         <Td width={"200px"} display={"flex"} flexDirection={"column"}>
           <Box>123 Main street Suite 456 Anytown,CA</Box>
           <Box>12345United States</Box>
@@ -50,7 +50,7 @@ const Tabular = () => {
         <Td><Avatar name='Kent Dodds' src='https://bit.ly/kent-c-dodds' /></Td>
         <Td>Luffy</Td>
         <Td>+9(372) 7783 383</Td>
-        <Td>Stephen@gmail.com</Td>
+        <Td>Stephen76@gmail.com</Td>
         <Td>
         <Box>123 Main street Suite 456 Anytown,CA</Box>
         <Box>12345United States</Box>
@@ -63,7 +63,7 @@ const Tabular = () => {
         <Td><Avatar name='Ryan Florence' src='https://bit.ly/ryan-florence' /></Td>
         <Td>Rorono</Td>
         <Td>+9(372) 7783 383</Td>
-        <Td>Stephen@gmail.com</Td>
+        <Td>Stephen76@gmail.com</Td>
         <Td>
         <Box>123 Main street Suite 456 Anytown,CA</Box>
         <Box>12345United States</Box>
@@ -76,7 +76,7 @@ const Tabular = () => {
         <Td><Avatar name='Prosper Otemuyiwa' src='https://bit.ly/prosper-baba' /></Td>
         <Td>Jennifer</Td>
         <Td>+9(372) 7783 383</Td>
-        <Td>Stephen@gmail.com</Td>
+        <Td>Stephen76@gmail.com</Td>
         <Td>
         <Box>123 Main street Suite 456 Anytown,CA</Box>
         <Box>12345United States</Box>
@@ -89,7 +89,7 @@ const Tabular = () => {
         <Td><Avatar name='Christian Nwamba' src='https://bit.ly/code-beast' /></Td>
         <Td>Adam</Td>
         <Td>+9(372) 7783 383</Td>
-        <Td>Stephen@gmail.com</Td>
+        <Td>Stephen76@gmail.com</Td>
         <Td>
         <Box>123 Main street Suite 456 Anytown,CA</Box>
         <Box>12345United States</Box>
@@ -102,7 +102,7 @@ const Tabular = () => {
         <Td><Avatar name='Christian Nwamba' src='https://bit.ly/code-beast' /></Td>
         <Td>A030VGS124</Td>
         <Td>+9(372) 7783 383</Td>
-        <Td>Stephen@gmail.com</Td>
+        <Td>Stephen76@gmail.com</Td>
         <Td>
         <Box>123 Main street Suite 456 Anytown,CA</Box>
         <Box>12345United States</Box>
@@ -115,7 +115,7 @@ const Tabular = () => {
         <Td><Avatar name='Segun Adebayo' src='https://bit.ly/sage-adebayo' /></Td>
         <Td>A030VGS124</Td>
         <Td>+9(372) 7783 383</Td>
-        <Td>Stephen@gmail.com</Td>
+        <Td>Stephen76@gmail.com</Td>
         <Td>
         <Box>123 Main street Suite 456 Anytown,CA</Box>
         <Box>12345United States</Box>
@@ -128,7 +128,7 @@ const Tabular = () => {
         <Td><Avatar name='Christian Nwamba' src='https://bit.ly/code-beast' /></Td>
         <Td>A030VGS124</Td>
         <Td>+9(372) 7783 383</Td>
-        <Td>Stephen@gmail.com</Td>
+        <Td>Stephen76@gmail.com</Td>
         <Td>
         <Box>123 Main street Suite 456 Anytown,CA</Box>
         <Box>12345United States</Box>

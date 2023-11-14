@@ -4,7 +4,7 @@ import {ArrowBackIcon,ArrowForwardIcon} from "@chakra-ui/icons";
 
 const Pagination = () => {
   return (
-    <Box marginLeft={"70%"}>
+    <Box marginLeft={"70%"} marginTop={"25px"}>
         <Box display={"flex"} gap={"30px"}>
             <Box border={"3px solid skyblue "} borderRadius={"17px"} width={"50px"} height={"30px"}>
                 <ArrowBackIcon color={"skyblue"} />
